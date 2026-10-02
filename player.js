@@ -51,7 +51,7 @@ function vidFullscreen() {
     }
 }
 
-playM3u8('http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8');//window.location.href.split("#")[1])
+playM3u8('https:\\cdn.jmvstream.com\w\LVW-10841\LVW10841_mT77z9o2cP\chunklist720p.m3u8');//window.location.href.split("#")[1])
 
 document.addEventListener("DOMContentLoaded", function() {
   //Guardar service worker
