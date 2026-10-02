@@ -51,7 +51,7 @@ function vidFullscreen() {
     }
 }
 
-playM3u8('https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8');//window.location.href.split("#")[1])
+playM3u8('http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8');//window.location.href.split("#")[1])
 
 document.addEventListener("DOMContentLoaded", function() {
   //Guardar service worker
